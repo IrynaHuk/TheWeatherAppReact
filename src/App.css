@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+}
+
+.icon {
+  font-size: 45px;
+}
+.temperature-number {
+  font-size: 45px;
+}
+.weather {
+  text-align: left;
+}
+.units {
+  font-size: 12px;
+  position: relative;
+  top: -23px;
+}
